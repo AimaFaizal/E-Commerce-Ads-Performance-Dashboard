@@ -4,11 +4,23 @@ A Power BI dashboard showcasing brand awareness campaign performance on Shopee S
 
 # Shopee Ads Dashboard 📊
 
-This project showcases a sample marketing performance dashboard for Shopee Onsite Ads, created using Power BI. The aim is to demonstrate branding campaign analysis for various FMCG skincare brands such as **Safi, Nivea, Aiken, and Garnier**.
+To analyze and compare the efficiency of Shopee Search Ads across different promotional campaigns by tracking key metrics such as CPC, CTR, CVR, and ROI. This aids in optimizing brand exposure and ad spend.
+
+🏷️ Brands & Campaigns Included
+Safi – Hari Raya Mega Sale
+
+Shopeetique – 9.9 Brand Festival
+
+Nestlé – Super Brand Day
+
+Siti Khadijah – Hijab Flash Sale
 
 ## 🎯 Objective
 
 To simulate how a performance marketer or data analyst could visualize and interpret brand awareness campaigns using marketplace ad data. The dashboard includes insights into campaign reach, user engagement, cost-efficiency, and conversions.
+
+
+
 
 ## 🛠 Tools Used
 
