@@ -54,9 +54,13 @@ To simulate how a performance marketer or data analyst could visualize and inter
    - Filterable by Brand and Campaign
    - Tracks performance over time  
 3. **Insights**:
-   - Identify which brand campaign has the best CTR or lowest CPC  
-   - Understand seasonal performance trends (e.g., Ramadan, 11.11 Mega Sale)  
-   - Compare daily performance across campaigns  
+<img width="935" height="491" alt="image" src="https://github.com/user-attachments/assets/06d354eb-5e74-4107-8a6d-e10685762cb4" />
+
+
+📘 Project Summary: Performance Analytics of Shopee Beauty Brand Ads
+This dashboard presents a comprehensive performance analysis of Shopee Beauty Brand Ads, designed to provide key stakeholders with clear visibility into campaign efficiency and profitability. The analysis showcases over 5.85 billion impressions and 2.4 million clicks, leading to RM1.19 million in total revenue at a highly efficient RM0.05 CPC and RM0.20 CPM. With a 10.42 Return on Ad Spend (ROAS) and RM1.08 million in net profit, the campaign delivered strong financial returns.
+
+Beyond topline success, the dashboard provides actionable insights into user engagement and behavior, such as a 1.80% conversion rate, a modest 0.32% ATC rate, and an average order value of RM27.72. These metrics help uncover optimization opportunities in cart conversions and customer journey flow. This project demonstrates a full-funnel performance marketing analysis — integrating paid media metrics with e-commerce KPIs — and highlights areas for future improvements across creative, product bundling, and targeting strategies.
 
 ## 🧪 Future Additions
 
