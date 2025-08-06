@@ -26,7 +26,6 @@ To simulate how a performance marketer or data analyst could visualize and inter
 
 - **Power BI** for data visualization and dashboard building  
 - **Excel (.xlsx)** file for simulated ad performance data  
-- *(Optional)* Python/Pandas for advanced data cleaning  
 
 ## 🗂 Data Columns
 
