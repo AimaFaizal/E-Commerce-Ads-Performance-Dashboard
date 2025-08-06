@@ -55,7 +55,7 @@ To simulate how a performance marketer or data analyst could visualize and inter
    - Tracks performance over time  
 3. **Insights**:
 
-   Topline performance summary
+**   Page 1 - Topline performance summary**
 <img width="935" height="491" alt="image" src="https://github.com/user-attachments/assets/06d354eb-5e74-4107-8a6d-e10685762cb4" />
 
 1. Campaign Reach & Engagement
