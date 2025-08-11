@@ -159,6 +159,12 @@ o	Reduce broad impressions for Instaperfect+ and focus on targeted audiences sim
 4.	Replicate Winning Strategies
 o	Study Crystallure’s ad creatives, audience targeting, and promotional offers — apply to other SKUs.
 
+
+****Page 3 -Ad Spent Effectiveness by SKU****
+
+<img width="907" height="502" alt="image" src="https://github.com/user-attachments/assets/614a24d0-c827-4ca5-8a2a-fd522f22dc7a" />
+
+
 Key Insights
 1. Top Performer in ROAS
 •	Crystallure leads with ROAS of 16, meaning each RM1 spent generates RM16 in revenue.
