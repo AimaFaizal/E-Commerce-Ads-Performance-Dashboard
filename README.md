@@ -95,6 +95,34 @@ With a total revenue of RM1.19M and a cost of RM114.9K, the net profit is RM1,08
 
 The profit-to-cost ratio exceeds 9:1, showcasing clear room to scale the campaign or reinvest budget into higher-performing SKUs or categories
 
+**Page 2 - Performance By SKU**
+<img width="904" height="542" alt="image" src="https://github.com/user-attachments/assets/45ffadfb-9b74-4ab5-939a-5325a77d8b12" />
+
+1. Revenue Leadership & Underperformers
+Top Performer: Emina generated RM 954,700 (highest revenue), but with low ROAS (5), suggesting volume-driven but inefficient ad spend.
+
+Secondary Performers: Crystalline (RM 316,941) and Kahf (RM 254,607) balanced revenue with strong ROAS (16 and 13).
+
+Lagging SKUs: OMG and Wardah had the lowest revenue (RM 167K and RM 146K), but Wardah’s profitability was highest (see below).
+
+2. Profitability Paradox
+Wardah: Despite low revenue, it delivered the highest net profit (RM 126,105), indicating exceptional margins or cost efficiency.
+
+Crystalline: Moderate profit (RM 26,704) but high costs (RM 25K total)—opportunity to streamline operations.
+
+3. Marketing Efficiency (ROAS)
+Best ROAS: Crystalline (16) and Kahf (13)—reallocate budget here for higher returns.
+
+Lowest ROAS: Emina (5) despite high revenue. Investigate ad targeting or creative fatigue.
+
+4. Cost & Order Analysis
+High Costs: Crystalline’s costs (RM 25K) were disproportionate to profit.
+
+Order Value: Crystalline and Kahf drove the highest per-order value (RM 40 and RM 35), ideal for upselling.
+
+Order Volume: Intraperfect and Wardah led in orders (8.3K and 6.6K), but Wardah’s low revenue suggests low average order value.
+
+
 ## 🧪 Future Additions
 
 - A/B Testing Visualizations  
