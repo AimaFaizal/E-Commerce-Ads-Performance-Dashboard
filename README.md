@@ -198,13 +198,74 @@ o	Reduce broad impressions for Instaperfect+ and focus on targeted audiences sim
 4.	Replicate Winning Strategies
 o	Study Crystallure’s ad creatives, audience targeting, and promotional offers — apply to other SKUs.
 
+****Page 4 -Performance By Campaign Event***
+
+<img width="911" height="512" alt="image" src="https://github.com/user-attachments/assets/f6248cba-d543-45fe-88b8-2fdf2e84f69f" />
+
+The “Performance by Campaign Event (Sales)” dashboard evaluates three key e-commerce campaign types — Double Digit Sales, Mid-Month Sales, and PayDay Sales — across critical KPIs including Revenue, Net Profit, Cost, Aggregated Order Value (AOV), ROAS, and Orders. Double Digit Sales emerged as the highest revenue and profit driver (RM428,605 revenue; RM391,897 profit) with the strongest ROAS (11.78) and AOV (RM29.37). Mid-Month Sales maintained competitive performance (RM398,970 revenue) but at slightly lower efficiency (ROAS 10.22). PayDay Sales delivered the lowest returns across most KPIs, indicating lower efficiency (ROAS 9.36) despite higher marketing costs (RM39,505). This analysis highlights that large-scale events like Double Digit Sales yield superior returns, while PayDay campaigns may require cost optimization or strategic repositioning.
+
+** Page 5 -📊 Ads Spent Effectiveness by Campaign Event ***
 
 
-## 🧪 Future Additions
+This visualization compares ad spend across different campaign events with their corresponding performance outcomes.
+As a media buyer, the key takeaway is the disparity between spend allocation and performance efficiency:
 
-- A/B Testing Visualizations  
-- Real-Time Dashboard from Google Sheets  
-- Automated Email Reporting using Power Automate  
+High-efficiency events: Some campaign events achieved strong engagement or conversion rates despite moderate budget allocation. These represent high ROI opportunities and could benefit from additional investment to maximize reach.
+
+Low-efficiency events: Certain events consumed a significant share of the budget but underperformed in results. These require creative refreshes, refined targeting, or budget reallocation to prevent diminishing returns.
+
+Actionable strategy: Prioritize scaling high-performing events while conducting A/B testing and audience segmentation on lower-performing ones to improve overall ROAS and campaign profitability.
+
+This data-driven approach ensures budget optimization while aligning spend with events that deliver the greatest business impact.
+
+## 🧪 Recommendations**
+
+Reallocate Budget Toward High-Performing Campaign Events
+
+Justification: Dashboards show several campaign events with high conversion rates but moderate ad spend. Increasing budget allocation to these events could amplify returns without significantly increasing overall costs.
+
+Action: Identify top quartile performers by ROAS and scale spend by 10–20% in the next cycle.
+
+Optimize or Pause Low-Performing Campaigns
+
+Justification: Some campaigns consume a disproportionate share of budget but underperform on key metrics like CTR and conversion rate. Continuing them in the same form risks diminishing returns.
+
+Action: Conduct creative refreshes, tighten targeting, or pause campaigns with persistently low performance.
+
+Leverage Time-of-Day and Day-of-Week Insights
+
+Justification: Engagement trends in the dashboards reveal peak interaction windows. Concentrating bids during these periods can improve cost efficiency.
+
+Action: Apply dayparting strategies for Shopee & Lazada SEM to capture peak consumer activity times.
+
+Refine Keyword & Search Term Targeting
+
+Justification: Certain high-spend keywords have lower click-to-conversion efficiency, suggesting misalignment with purchase intent.
+
+Action: Exclude low-performing search terms, expand exact match targeting for high-ROI terms, and use dynamic keyword insertion where applicable.
+
+Ad Format Diversification for Engagement Lift
+
+Justification: Data suggests some events excel in CTR with richer creatives (e.g., video or carousel ads), while static formats perform well for remarketing.
+
+Action: Test creative formats per audience segment to determine cost-effective engagement boosts.
+
+Integrate Audience Segmentation in Bid Strategies
+
+Justification: Audiences with higher average order value (AOV) may warrant more aggressive bidding, while low-AOV segments can be nurtured with lower-cost awareness campaigns.
+
+Action: Apply layered bid adjustments by segment in SEM platforms.
+
+Continuous Performance Monitoring & Agile Adjustment
+
+Justification: Dashboards highlight shifting trends in real-time. Quick pivots can prevent wasted spend and capture emerging opportunities.
+
+Action: Set weekly performance reviews to adjust budgets, bids, and creatives promptly.
+
+## Conclusion ##
+
+This E-Commerce Analysis Dashboard demonstrates the integration of media buying expertise with data-driven decision-making to optimize marketing performance. By consolidating key metrics—such as GMV trends, product category performance, traffic sources, and conversion efficiency—into an interactive Power BI interface, the analysis provides stakeholders with actionable insights to refine targeting, budget allocation, and promotional strategies. The results highlight not only market trends but also the link between campaign execution and business outcomes, enabling evidence-based decisions that align with broader brand objectives. This project underscores my capability to translate raw data into strategic recommendations, bridging the gap between marketing operations and analytical intelligence.
+
 
 ## 📁 Files
 
